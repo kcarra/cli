@@ -1,5 +1,14 @@
 # @shopify/app
 
+## 3.44.1-pre.0
+
+### Patch Changes
+
+- b895bb5e9: Fix template for ui_extension to not contain unsupported extensions points
+- Updated dependencies [657593b1a]
+  - @shopify/cli-kit@3.44.1-pre.0
+  - @shopify/plugin-ngrok@3.44.1-pre.0
+
 ## 3.44.0
 
 ### Patch Changes

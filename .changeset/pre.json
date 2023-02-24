@@ -18,5 +18,8 @@
     "@shopify/ui-extensions-test-utils": "3.25.0",
     "@shopify/workspace": "0.1.0"
   },
-  "changesets": []
+  "changesets": [
+    "ninety-chefs-teach",
+    "strong-ducks-share"
+  ]
 }

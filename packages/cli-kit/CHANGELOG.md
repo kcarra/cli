@@ -1,5 +1,11 @@
 # @shopify/cli-kit
 
+## 3.44.1-pre.0
+
+### Patch Changes
+
+- 657593b1a: Fix run dev with theme app extension and spin
+
 ## 3.44.0
 
 ### Patch Changes
